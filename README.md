@@ -43,7 +43,7 @@ Neste repositório, nós fornecemos os códigos-fonte para rodar a aplicação l
     - Abra qualquer navegador de internet e conecte no endereço http://localhost:44444;
 
 Você deve visualizar a interface do GETS_App.
-![Figura_interface](/figuras/Figura_interface.png)
+![Figura_interface](/figuras/figura_interface.png)
 Feito! A aplicação estará disponível enquanto o Docker estiver rodando a imagem do GETS_App em segundo plano. Você pode parar ou reiniciar a aplicação por meio do Docker Desktop.
 ![Figura_docker](/figuras/Figura_docker.png)
 Observações: A pasta local que você escolheu no passo 4 está espelhada dentro do container Docker como sendo a pasta “gets_app/data”. 
