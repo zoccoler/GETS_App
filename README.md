@@ -25,7 +25,7 @@ Neste repositório, nós fornecemos os códigos-fonte para rodar a aplicação l
 1.	Baixar o Docker:
     - Faça o download e instale o [Docker para Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows);
     - É possível que, durante a instalação, seja requisitada a instalação/atualização do WSL2. Para isso, realize o passo 4 deste [link](https://docs.microsoft.com/pt-br/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package) e pressione o botão Restart da instalação;
-  ![Figura_inst_WSL](/figras/Figura_WSL.png)
+  ![Figura_inst_WSL](/figuras/Figura_WSL.png)
 2.	Abrir o Docker:
     - Abra o Docker (pode ser necessário reiniciar o sistema antes disso) e abra também qualquer prompt de comando (como por exemplo: clique em Iniciar -> digite “cmd” na barra de busca do Windows e pressione Enter; ou use o Powershell);
 3. Baixar a imagem do GETS_App:	
@@ -43,9 +43,9 @@ Neste repositório, nós fornecemos os códigos-fonte para rodar a aplicação l
     - Abra qualquer navegador de internet e conecte no endereço http://localhost:44444;
 
 Você deve visualizar a interface do GETS_App.
-![Figura_interface](/figras/Figura_interface.png)
+![Figura_interface](/figuras/Figura_interface.png)
 Feito! A aplicação estará disponível enquanto o Docker estiver rodando a imagem do GETS_App em segundo plano. Você pode parar ou reiniciar a aplicação por meio do Docker Desktop.
-![Figura_docker](/figras/Figura_docker.png)
+![Figura_docker](/figuras/Figura_docker.png)
 Observações: A pasta local que você escolheu no passo 4 está espelhada dentro do container Docker como sendo a pasta “gets_app/data”. 
 Você deve carregar as tabelas do GETS na sua pasta local antes de usar o GETS_App. Além disso, os aquivos de saída que você salvar serão armazenados numa pasta "Outputs" dentro da pasta “gets_app/data” e poderão ser recuperados pela sua pasta local.
 
