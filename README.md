@@ -84,7 +84,7 @@ Este projeto foi financiado pelo [CNPq](http://www.cnpq.br/).
 
 MIT License
 
-Copyright (c) 2021 Marcelo Zoccoler
+Copyright (c) 2021 Centro de Engenharia Biomédica (CEB) - Universidade Estadual de Campinas (UNICAMP)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
